@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proiect multimedia</title>
+    <link rel="stylesheet" href="3_1089_DULICA_Georgiana_Denisa.css">
+</head>
+<body onload="date_url()">
+  <h1> Vizualizarea valorilor PIB, Speranței de viață și Populației pentru perioada 2009-2023 </h1>
+
+  <h2 class="subtitlu">Histogramă: Evoluția anuală a indicatorului selectat pentru o țară</h2>
+    <div class="alegere">
+        <p> Alege țara și indicatorul pentru afișarea histogramei:</p>
+        <select id="tara"></select>
+        <select id="indicator"></select>
+    </div>
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <svg id="grafic_dreptunghi" width="1000" height="500" style="margin-top: 50px;"></svg>
+    </div>
+
+    <!--elementul tooltip poate fiind asezat oriunde pe pagina avand position absolut, iar acesta depinde de proprietatile top, left pe care le calculez-->
+    <!--tooltip este desenat deasupra celorlalte elemente avand un z-index foarte mare-->
+    <!--tooltip invizibil (none) pana se va schimba proprietatea display la (block)-->
+    <div id="tooltip"></div>
+
+    <h2 class="subtitlu">Tabel: Indicatorii din anul selectat vs media UE</h2>
+    <div class="alege_an">
+      <p> Alege anul pentru a vizualiza valorile:</p>
+      <select id="an_selectat"></select>
+    </div>
+    <div id="tabel"></div>
+    <svg id="legenda_tabel" width="1000" height="150">
+
+    <h2 class="subtitlu">BubbleChart: Analiza indicatorilor din anul selectat</h2>
+    <p id="p_canvas"> Alege anul folosind dropdown-ul de mai sus pentru a vizualiza graficul</p>
+    <div class="canvas">
+      <canvas id="bubbleChart"></canvas>
+    </div>
+    <div class="legenda_animatie">
+      <button id="buton_animatie">Pornește animația</button>
+      <svg id="legenda_bubbleChart" width="1500" height="200"></svg>
+    </div>
+   
+    <script src="3_1089_DULICA_Georgiana_Denisa.js" type="text/javascript"></script>
+</body>
+</html>

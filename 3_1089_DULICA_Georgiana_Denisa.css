@@ -1,0 +1,118 @@
+#grafic_dreptunghi{
+    fill: rgb(230, 230, 230);
+    stroke: black;
+}
+text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    fill:black;
+}
+#tooltip{
+position: absolute;
+background-color: white;
+border: 1px solid black;
+z-index: 1000;
+display: none;
+}
+#tabel{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#tabel table{
+width: 50%;
+border-collapse: collapse;
+}
+th,td{
+border: 1px solid black;
+padding: 3px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+th{
+background-color: rgb(191, 86, 104);
+}
+h1{
+text-shadow: 1px 1px 4px;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-top: 5%;
+margin-left: 15%;
+margin-right: 15%;
+}
+body{
+background-color: rgb(247, 240, 243);
+}
+.alegere{
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
+}
+.alegere select{
+font-size: 14px;
+padding: 5px;
+}
+.alegere p{
+font-size: 18px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.alege_an{
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
+}
+.alege_an select{
+font-size: 14px;
+padding: 5px;
+}
+.alege_an p{
+font-size: 18px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.canvas{
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
+}
+canvas{
+margin-top: 50px;
+border: 1px solid black;
+background-color: white;
+width:800px;
+height:400px;
+}
+#p_canvas{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 5px;
+    text-align: center;
+    }
+.subtitlu{
+margin-top: 60px;
+margin-left: 15%;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: rgb(191, 86, 104);
+}
+#legenda_bubbleChart
+{
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-left: 40%;
+margin-top: 2%;
+}
+.legenda_animatie{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#buton_animatie{
+    margin-top: 2%;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(191, 86, 104);;
+}
+#legenda_tabel{
+    margin-top: 2%;
+    margin-left: 20%;
+}

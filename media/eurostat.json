@@ -1,0 +1,9236 @@
+﻿[
+  {
+    "tara": "BE",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 77.7
+  },
+  {
+    "tara": "BE",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 78.2
+  },
+  {
+    "tara": "BE",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 78.2
+  },
+  {
+    "tara": "BE",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 78.1
+  },
+  {
+    "tara": "BE",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 78.7
+  },
+  {
+    "tara": "BE",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 78.9
+  },
+  {
+    "tara": "BE",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 79.4
+  },
+  {
+    "tara": "BE",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 79.6
+  },
+  {
+    "tara": "BE",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "BE",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 79.8
+  },
+  {
+    "tara": "BE",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 80.1
+  },
+  {
+    "tara": "BE",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "BE",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "BE",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 80.5
+  },
+  {
+    "tara": "BE",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "BE",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "BE",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "BE",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "BE",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "BG",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 77.2
+  },
+  {
+    "tara": "BG",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 77.5
+  },
+  {
+    "tara": "BG",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 77.5
+  },
+  {
+    "tara": "BG",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 77.6
+  },
+  {
+    "tara": "BG",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 78.3
+  },
+  {
+    "tara": "BG",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 78.4
+  },
+  {
+    "tara": "BG",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 78.8
+  },
+  {
+    "tara": "BG",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 79.2
+  },
+  {
+    "tara": "BG",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 79.1
+  },
+  {
+    "tara": "BG",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 79.4
+  },
+  {
+    "tara": "BG",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 79.6
+  },
+  {
+    "tara": "BG",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "BG",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 79.8
+  },
+  {
+    "tara": "BG",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 80
+  },
+  {
+    "tara": "BG",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "BG",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "BG",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "BG",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "BG",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "CZ",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 71.6
+  },
+  {
+    "tara": "CZ",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 71.9
+  },
+  {
+    "tara": "CZ",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 72.1
+  },
+  {
+    "tara": "CZ",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 72.2
+  },
+  {
+    "tara": "CZ",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 72.4
+  },
+  {
+    "tara": "CZ",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 72.3
+  },
+  {
+    "tara": "CZ",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 72.5
+  },
+  {
+    "tara": "CZ",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 72.7
+  },
+  {
+    "tara": "CZ",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 73
+  },
+  {
+    "tara": "CZ",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 73.4
+  },
+  {
+    "tara": "CZ",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 73.5
+  },
+  {
+    "tara": "CZ",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 73.9
+  },
+  {
+    "tara": "CZ",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 74
+  },
+  {
+    "tara": "CZ",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 74.5
+  },
+  {
+    "tara": "CZ",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 74.1
+  },
+  {
+    "tara": "CZ",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 74.1
+  },
+  {
+    "tara": "CZ",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 74.4
+  },
+  {
+    "tara": "CZ",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 74.3
+  },
+  {
+    "tara": "CZ",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 74.4
+  },
+  {
+    "tara": "DK",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 77.1
+  },
+  {
+    "tara": "DK",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 78.4
+  },
+  {
+    "tara": "DK",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 78
+  },
+  {
+    "tara": "DK",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 78.3
+  },
+  {
+    "tara": "DK",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 78.4
+  },
+  {
+    "tara": "DK",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 78
+  },
+  {
+    "tara": "DK",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 79.4
+  },
+  {
+    "tara": "DK",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 79.1
+  },
+  {
+    "tara": "DK",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "DK",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 80.2
+  },
+  {
+    "tara": "DK",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "DK",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 80.5
+  },
+  {
+    "tara": "DK",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "DK",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 81.7
+  },
+  {
+    "tara": "DK",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "DK",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "DK",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 81.9
+  },
+  {
+    "tara": "DK",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 81.3
+  },
+  {
+    "tara": "DK",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 82.1
+  },
+  {
+    "tara": "DE",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 74.4
+  },
+  {
+    "tara": "DE",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 74.6
+  },
+  {
+    "tara": "DE",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 74.7
+  },
+  {
+    "tara": "DE",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 74.6
+  },
+  {
+    "tara": "DE",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 75.2
+  },
+  {
+    "tara": "DE",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 75.4
+  },
+  {
+    "tara": "DE",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 76
+  },
+  {
+    "tara": "DE",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 76.3
+  },
+  {
+    "tara": "DE",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 76.5
+  },
+  {
+    "tara": "DE",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 76.6
+  },
+  {
+    "tara": "DE",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 76.9
+  },
+  {
+    "tara": "DE",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 77.2
+  },
+  {
+    "tara": "DE",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 77.4
+  },
+  {
+    "tara": "DE",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 77.5
+  },
+  {
+    "tara": "DE",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 78.1
+  },
+  {
+    "tara": "DE",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 77.9
+  },
+  {
+    "tara": "DE",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 78.4
+  },
+  {
+    "tara": "DE",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 78.3
+  },
+  {
+    "tara": "DE",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 78.3
+  },
+  {
+    "tara": "EE",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 77.6
+  },
+  {
+    "tara": "EE",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 77.9
+  },
+  {
+    "tara": "EE",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 77.9
+  },
+  {
+    "tara": "EE",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 78
+  },
+  {
+    "tara": "EE",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 78.6
+  },
+  {
+    "tara": "EE",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 78.7
+  },
+  {
+    "tara": "EE",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 79.2
+  },
+  {
+    "tara": "EE",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 79.4
+  },
+  {
+    "tara": "EE",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 79.5
+  },
+  {
+    "tara": "EE",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 79.6
+  },
+  {
+    "tara": "EE",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 79.8
+  },
+  {
+    "tara": "EE",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "EE",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 80
+  },
+  {
+    "tara": "EE",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "EE",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "EE",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80
+  },
+  {
+    "tara": "EE",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "EE",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "EE",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 80.2
+  },
+  {
+    "tara": "IE",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 76.3
+  },
+  {
+    "tara": "IE",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 76.4
+  },
+  {
+    "tara": "IE",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 76.4
+  },
+  {
+    "tara": "IE",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 76.8
+  },
+  {
+    "tara": "IE",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 77.2
+  },
+  {
+    "tara": "IE",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 77.6
+  },
+  {
+    "tara": "IE",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 77.7
+  },
+  {
+    "tara": "IE",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 77.7
+  },
+  {
+    "tara": "IE",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 78.1
+  },
+  {
+    "tara": "IE",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 78.3
+  },
+  {
+    "tara": "IE",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 78.6
+  },
+  {
+    "tara": "IE",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 79.1
+  },
+  {
+    "tara": "IE",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 79.4
+  },
+  {
+    "tara": "IE",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 79.6
+  },
+  {
+    "tara": "IE",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.1
+  },
+  {
+    "tara": "IE",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80.1
+  },
+  {
+    "tara": "IE",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 80.2
+  },
+  {
+    "tara": "IE",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 80.5
+  },
+  {
+    "tara": "IE",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "EL",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 70.7
+  },
+  {
+    "tara": "EL",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 70.5
+  },
+  {
+    "tara": "EL",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 70.8
+  },
+  {
+    "tara": "EL",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 71.4
+  },
+  {
+    "tara": "EL",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 71.9
+  },
+  {
+    "tara": "EL",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 72.4
+  },
+  {
+    "tara": "EL",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 72.5
+  },
+  {
+    "tara": "EL",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 72.6
+  },
+  {
+    "tara": "EL",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 73.7
+  },
+  {
+    "tara": "EL",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 74.6
+  },
+  {
+    "tara": "EL",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 75.3
+  },
+  {
+    "tara": "EL",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 75.8
+  },
+  {
+    "tara": "EL",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 76
+  },
+  {
+    "tara": "EL",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 76.7
+  },
+  {
+    "tara": "EL",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 76.6
+  },
+  {
+    "tara": "EL",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 77.2
+  },
+  {
+    "tara": "EL",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 77.2
+  },
+  {
+    "tara": "EL",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 77.6
+  },
+  {
+    "tara": "EL",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 77.7
+  },
+  {
+    "tara": "ES",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 78.1
+  },
+  {
+    "tara": "ES",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 78.5
+  },
+  {
+    "tara": "ES",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 78.6
+  },
+  {
+    "tara": "ES",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 78.6
+  },
+  {
+    "tara": "ES",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 78.7
+  },
+  {
+    "tara": "ES",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 78.9
+  },
+  {
+    "tara": "ES",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 79.2
+  },
+  {
+    "tara": "ES",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 79
+  },
+  {
+    "tara": "ES",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 79.5
+  },
+  {
+    "tara": "ES",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 79.6
+  },
+  {
+    "tara": "ES",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "ES",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 80
+  },
+  {
+    "tara": "ES",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "ES",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "ES",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "ES",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "ES",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "ES",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "ES",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 81.1
+  },
+  {
+    "tara": "FR",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 78.7
+  },
+  {
+    "tara": "FR",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 79.1
+  },
+  {
+    "tara": "FR",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 79.2
+  },
+  {
+    "tara": "FR",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 79
+  },
+  {
+    "tara": "FR",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 79.7
+  },
+  {
+    "tara": "FR",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 79.6
+  },
+  {
+    "tara": "FR",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "FR",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "FR",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "FR",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 81.2
+  },
+  {
+    "tara": "FR",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "FR",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 81.8
+  },
+  {
+    "tara": "FR",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 81.8
+  },
+  {
+    "tara": "FR",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 82.4
+  },
+  {
+    "tara": "FR",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 82.5
+  },
+  {
+    "tara": "FR",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 82.2
+  },
+  {
+    "tara": "FR",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 82.7
+  },
+  {
+    "tara": "FR",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 82.6
+  },
+  {
+    "tara": "FR",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 82.7
+  },
+  {
+    "tara": "HR",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 77.1
+  },
+  {
+    "tara": "HR",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 77.5
+  },
+  {
+    "tara": "HR",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 77.6
+  },
+  {
+    "tara": "HR",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 77.8
+  },
+  {
+    "tara": "HR",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 78.2
+  },
+  {
+    "tara": "HR",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 78.4
+  },
+  {
+    "tara": "HR",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 78.8
+  },
+  {
+    "tara": "HR",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 78.8
+  },
+  {
+    "tara": "HR",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 79.1
+  },
+  {
+    "tara": "HR",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 79.3
+  },
+  {
+    "tara": "HR",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 79.4
+  },
+  {
+    "tara": "HR",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 79.8
+  },
+  {
+    "tara": "HR",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "HR",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "HR",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.5
+  },
+  {
+    "tara": "HR",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "HR",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "HR",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "HR",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "IT",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 78.5
+  },
+  {
+    "tara": "IT",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 78.6
+  },
+  {
+    "tara": "IT",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 78.7
+  },
+  {
+    "tara": "IT",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 78.6
+  },
+  {
+    "tara": "IT",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 79.7
+  },
+  {
+    "tara": "IT",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 79.7
+  },
+  {
+    "tara": "IT",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "IT",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "IT",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "IT",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "IT",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 81.1
+  },
+  {
+    "tara": "IT",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "IT",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 81.4
+  },
+  {
+    "tara": "IT",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 81.7
+  },
+  {
+    "tara": "IT",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 82.2
+  },
+  {
+    "tara": "IT",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 81.8
+  },
+  {
+    "tara": "IT",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 82
+  },
+  {
+    "tara": "IT",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 82.1
+  },
+  {
+    "tara": "IT",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 82.2
+  },
+  {
+    "tara": "CY",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": null
+  },
+  {
+    "tara": "CY",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 74.1
+  },
+  {
+    "tara": "CY",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 74.2
+  },
+  {
+    "tara": "CY",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 74
+  },
+  {
+    "tara": "CY",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 74.9
+  },
+  {
+    "tara": "CY",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 74.7
+  },
+  {
+    "tara": "CY",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 75.3
+  },
+  {
+    "tara": "CY",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 75.2
+  },
+  {
+    "tara": "CY",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 75.3
+  },
+  {
+    "tara": "CY",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 75.7
+  },
+  {
+    "tara": "CY",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 76.1
+  },
+  {
+    "tara": "CY",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 76.5
+  },
+  {
+    "tara": "CY",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 76.6
+  },
+  {
+    "tara": "CY",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 77.1
+  },
+  {
+    "tara": "CY",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 77.3
+  },
+  {
+    "tara": "CY",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 76.8
+  },
+  {
+    "tara": "CY",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 77.5
+  },
+  {
+    "tara": "CY",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 77.3
+  },
+  {
+    "tara": "CY",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 77.6
+  },
+  {
+    "tara": "LV",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 71.5
+  },
+  {
+    "tara": "LV",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 72.1
+  },
+  {
+    "tara": "LV",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 72.1
+  },
+  {
+    "tara": "LV",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 72.1
+  },
+  {
+    "tara": "LV",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 72.5
+  },
+  {
+    "tara": "LV",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 72.4
+  },
+  {
+    "tara": "LV",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 72.9
+  },
+  {
+    "tara": "LV",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 73
+  },
+  {
+    "tara": "LV",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 73.6
+  },
+  {
+    "tara": "LV",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 73.8
+  },
+  {
+    "tara": "LV",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 74.1
+  },
+  {
+    "tara": "LV",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 74.5
+  },
+  {
+    "tara": "LV",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 74.6
+  },
+  {
+    "tara": "LV",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 75.2
+  },
+  {
+    "tara": "LV",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 75.3
+  },
+  {
+    "tara": "LV",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 75
+  },
+  {
+    "tara": "LV",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 75.5
+  },
+  {
+    "tara": "LV",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 75.3
+  },
+  {
+    "tara": "LV",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 75.5
+  },
+  {
+    "tara": "LT",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 76.1
+  },
+  {
+    "tara": "LT",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 76.6
+  },
+  {
+    "tara": "LT",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 77.1
+  },
+  {
+    "tara": "LT",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 77.6
+  },
+  {
+    "tara": "LT",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 78
+  },
+  {
+    "tara": "LT",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 78.3
+  },
+  {
+    "tara": "LT",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 78.6
+  },
+  {
+    "tara": "LT",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 79
+  },
+  {
+    "tara": "LT",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 79.5
+  },
+  {
+    "tara": "LT",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 79.5
+  },
+  {
+    "tara": "LT",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 80.1
+  },
+  {
+    "tara": "LT",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 80.1
+  },
+  {
+    "tara": "LT",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 80.2
+  },
+  {
+    "tara": "LT",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "LT",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "LT",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "LT",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "LT",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "LT",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "LU",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 79.3
+  },
+  {
+    "tara": "LU",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 79.6
+  },
+  {
+    "tara": "LU",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 79.7
+  },
+  {
+    "tara": "LU",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 79.5
+  },
+  {
+    "tara": "LU",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 80.2
+  },
+  {
+    "tara": "LU",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 80.2
+  },
+  {
+    "tara": "LU",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "LU",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "LU",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "LU",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 81.1
+  },
+  {
+    "tara": "LU",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "LU",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "LU",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "LU",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 82.1
+  },
+  {
+    "tara": "LU",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 82.5
+  },
+  {
+    "tara": "LU",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 81.9
+  },
+  {
+    "tara": "LU",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 82.6
+  },
+  {
+    "tara": "LU",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 82.3
+  },
+  {
+    "tara": "LU",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 82.7
+  },
+  {
+    "tara": "HU",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 71.7
+  },
+  {
+    "tara": "HU",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 71.2
+  },
+  {
+    "tara": "HU",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 71.3
+  },
+  {
+    "tara": "HU",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 71.5
+  },
+  {
+    "tara": "HU",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 71.5
+  },
+  {
+    "tara": "HU",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 70.7
+  },
+  {
+    "tara": "HU",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 70.5
+  },
+  {
+    "tara": "HU",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 70.2
+  },
+  {
+    "tara": "HU",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 71.1
+  },
+  {
+    "tara": "HU",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 72.4
+  },
+  {
+    "tara": "HU",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 72.6
+  },
+  {
+    "tara": "HU",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 73.1
+  },
+  {
+    "tara": "HU",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 73.4
+  },
+  {
+    "tara": "HU",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 73.4
+  },
+  {
+    "tara": "HU",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 74
+  },
+  {
+    "tara": "HU",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 73.9
+  },
+  {
+    "tara": "HU",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 74.3
+  },
+  {
+    "tara": "HU",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 75
+  },
+  {
+    "tara": "HU",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 75.3
+  },
+  {
+    "tara": "MT",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 77.4
+  },
+  {
+    "tara": "MT",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 77.5
+  },
+  {
+    "tara": "MT",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 77.5
+  },
+  {
+    "tara": "MT",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 77.2
+  },
+  {
+    "tara": "MT",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 78.6
+  },
+  {
+    "tara": "MT",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 78.8
+  },
+  {
+    "tara": "MT",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 78.6
+  },
+  {
+    "tara": "MT",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 78.7
+  },
+  {
+    "tara": "MT",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 79.8
+  },
+  {
+    "tara": "MT",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 80
+  },
+  {
+    "tara": "MT",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 80.1
+  },
+  {
+    "tara": "MT",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "MT",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "MT",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 81.2
+  },
+  {
+    "tara": "MT",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "MT",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "MT",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 82
+  },
+  {
+    "tara": "MT",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 81.4
+  },
+  {
+    "tara": "MT",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 81.7
+  },
+  {
+    "tara": "NL",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": null
+  },
+  {
+    "tara": "NL",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": null
+  },
+  {
+    "tara": "NL",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 69.9
+  },
+  {
+    "tara": "NL",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 70.3
+  },
+  {
+    "tara": "NL",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 70.6
+  },
+  {
+    "tara": "NL",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 70.2
+  },
+  {
+    "tara": "NL",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 70.1
+  },
+  {
+    "tara": "NL",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 70.4
+  },
+  {
+    "tara": "NL",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 71.6
+  },
+  {
+    "tara": "NL",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 72.3
+  },
+  {
+    "tara": "NL",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 72.5
+  },
+  {
+    "tara": "NL",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 73.4
+  },
+  {
+    "tara": "NL",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 73.6
+  },
+  {
+    "tara": "NL",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 73.7
+  },
+  {
+    "tara": "NL",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 73.7
+  },
+  {
+    "tara": "NL",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 74.1
+  },
+  {
+    "tara": "NL",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 74.1
+  },
+  {
+    "tara": "NL",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 74.2
+  },
+  {
+    "tara": "NL",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 74.3
+  },
+  {
+    "tara": "AT",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 77.9
+  },
+  {
+    "tara": "AT",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 78.2
+  },
+  {
+    "tara": "AT",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 78.3
+  },
+  {
+    "tara": "AT",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 78.1
+  },
+  {
+    "tara": "AT",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 78.8
+  },
+  {
+    "tara": "AT",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 78.9
+  },
+  {
+    "tara": "AT",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 78.8
+  },
+  {
+    "tara": "AT",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 79.5
+  },
+  {
+    "tara": "AT",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 79.4
+  },
+  {
+    "tara": "AT",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 79.8
+  },
+  {
+    "tara": "AT",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "AT",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "AT",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "AT",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 81.4
+  },
+  {
+    "tara": "AT",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "AT",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "AT",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 82.2
+  },
+  {
+    "tara": "AT",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 81.9
+  },
+  {
+    "tara": "AT",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 82
+  },
+  {
+    "tara": "PL",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 77.6
+  },
+  {
+    "tara": "PL",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 77.8
+  },
+  {
+    "tara": "PL",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 77.8
+  },
+  {
+    "tara": "PL",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 78.1
+  },
+  {
+    "tara": "PL",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 78.7
+  },
+  {
+    "tara": "PL",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 79
+  },
+  {
+    "tara": "PL",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 79.3
+  },
+  {
+    "tara": "PL",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 79.7
+  },
+  {
+    "tara": "PL",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 79.8
+  },
+  {
+    "tara": "PL",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 80.2
+  },
+  {
+    "tara": "PL",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "PL",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "PL",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 80.5
+  },
+  {
+    "tara": "PL",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "PL",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 81.1
+  },
+  {
+    "tara": "PL",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "PL",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "PL",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 81.1
+  },
+  {
+    "tara": "PL",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 81.2
+  },
+  {
+    "tara": "PT",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 73.4
+  },
+  {
+    "tara": "PT",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 73.8
+  },
+  {
+    "tara": "PT",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 74.1
+  },
+  {
+    "tara": "PT",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 74.2
+  },
+  {
+    "tara": "PT",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 74.4
+  },
+  {
+    "tara": "PT",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 74.5
+  },
+  {
+    "tara": "PT",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 74.8
+  },
+  {
+    "tara": "PT",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 74.8
+  },
+  {
+    "tara": "PT",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 75.1
+  },
+  {
+    "tara": "PT",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 75.3
+  },
+  {
+    "tara": "PT",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 75.8
+  },
+  {
+    "tara": "PT",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 76.2
+  },
+  {
+    "tara": "PT",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 76.2
+  },
+  {
+    "tara": "PT",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 76.5
+  },
+  {
+    "tara": "PT",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 77.1
+  },
+  {
+    "tara": "PT",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 76.9
+  },
+  {
+    "tara": "PT",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 77.3
+  },
+  {
+    "tara": "PT",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 77.2
+  },
+  {
+    "tara": "PT",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 77
+  },
+  {
+    "tara": "RO",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 76.3
+  },
+  {
+    "tara": "RO",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 76.6
+  },
+  {
+    "tara": "RO",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 76.8
+  },
+  {
+    "tara": "RO",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 76.8
+  },
+  {
+    "tara": "RO",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 77.7
+  },
+  {
+    "tara": "RO",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 77.5
+  },
+  {
+    "tara": "RO",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 78.3
+  },
+  {
+    "tara": "RO",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 78.5
+  },
+  {
+    "tara": "RO",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 78.8
+  },
+  {
+    "tara": "RO",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 79
+  },
+  {
+    "tara": "RO",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 79.3
+  },
+  {
+    "tara": "RO",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "RO",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 79.8
+  },
+  {
+    "tara": "RO",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 80.1
+  },
+  {
+    "tara": "RO",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "RO",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80.5
+  },
+  {
+    "tara": "RO",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "RO",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "RO",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "SI",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 71.5
+  },
+  {
+    "tara": "SI",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 71.4
+  },
+  {
+    "tara": "SI",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 71.1
+  },
+  {
+    "tara": "SI",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 71.2
+  },
+  {
+    "tara": "SI",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 71.6
+  },
+  {
+    "tara": "SI",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 72
+  },
+  {
+    "tara": "SI",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 72.5
+  },
+  {
+    "tara": "SI",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 73
+  },
+  {
+    "tara": "SI",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 73.4
+  },
+  {
+    "tara": "SI",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 73.5
+  },
+  {
+    "tara": "SI",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 73.5
+  },
+  {
+    "tara": "SI",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 74.2
+  },
+  {
+    "tara": "SI",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 74.2
+  },
+  {
+    "tara": "SI",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 74.8
+  },
+  {
+    "tara": "SI",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 74.6
+  },
+  {
+    "tara": "SI",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 74.5
+  },
+  {
+    "tara": "SI",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 74.8
+  },
+  {
+    "tara": "SI",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 74.7
+  },
+  {
+    "tara": "SI",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 74.8
+  },
+  {
+    "tara": "SK",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 79
+  },
+  {
+    "tara": "SK",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 79.2
+  },
+  {
+    "tara": "SK",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 79.3
+  },
+  {
+    "tara": "SK",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 79.5
+  },
+  {
+    "tara": "SK",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "SK",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "SK",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 80.2
+  },
+  {
+    "tara": "SK",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "SK",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 80.5
+  },
+  {
+    "tara": "SK",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "SK",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "SK",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "SK",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "SK",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 81.2
+  },
+  {
+    "tara": "SK",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "SK",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 81.4
+  },
+  {
+    "tara": "SK",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "SK",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 81.7
+  },
+  {
+    "tara": "SK",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 81.7
+  },
+  {
+    "tara": "FI",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 75.5
+  },
+  {
+    "tara": "FI",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 75.7
+  },
+  {
+    "tara": "FI",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 75.9
+  },
+  {
+    "tara": "FI",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 75.7
+  },
+  {
+    "tara": "FI",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 76.5
+  },
+  {
+    "tara": "FI",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 76.8
+  },
+  {
+    "tara": "FI",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 77.5
+  },
+  {
+    "tara": "FI",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 77.6
+  },
+  {
+    "tara": "FI",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 78.3
+  },
+  {
+    "tara": "FI",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 78.5
+  },
+  {
+    "tara": "FI",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 79
+  },
+  {
+    "tara": "FI",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 79.4
+  },
+  {
+    "tara": "FI",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 79.4
+  },
+  {
+    "tara": "FI",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 79.7
+  },
+  {
+    "tara": "FI",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "FI",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80
+  },
+  {
+    "tara": "FI",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "FI",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "FI",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "SE",
+    "an": "2000",
+    "indicator": "SV",
+    "valoare": 72.9
+  },
+  {
+    "tara": "SE",
+    "an": "2001",
+    "indicator": "SV",
+    "valoare": 73.1
+  },
+  {
+    "tara": "SE",
+    "an": "2002",
+    "indicator": "SV",
+    "valoare": 73.3
+  },
+  {
+    "tara": "SE",
+    "an": "2003",
+    "indicator": "SV",
+    "valoare": 73.4
+  },
+  {
+    "tara": "SE",
+    "an": "2004",
+    "indicator": "SV",
+    "valoare": 73.7
+  },
+  {
+    "tara": "SE",
+    "an": "2005",
+    "indicator": "SV",
+    "valoare": 73.7
+  },
+  {
+    "tara": "SE",
+    "an": "2006",
+    "indicator": "SV",
+    "valoare": 73.9
+  },
+  {
+    "tara": "SE",
+    "an": "2007",
+    "indicator": "SV",
+    "valoare": 74
+  },
+  {
+    "tara": "SE",
+    "an": "2008",
+    "indicator": "SV",
+    "valoare": 74.4
+  },
+  {
+    "tara": "SE",
+    "an": "2009",
+    "indicator": "SV",
+    "valoare": 74.8
+  },
+  {
+    "tara": "SE",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 75
+  },
+  {
+    "tara": "SE",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 75.5
+  },
+  {
+    "tara": "SE",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 75.7
+  },
+  {
+    "tara": "SE",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 76
+  },
+  {
+    "tara": "SE",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 76.4
+  },
+  {
+    "tara": "SE",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 76.1
+  },
+  {
+    "tara": "SE",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 76.7
+  },
+  {
+    "tara": "SE",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 76.7
+  },
+  {
+    "tara": "SE",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 76.8
+  },
+  {
+    "tara": "BE",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 8002186
+  },
+  {
+    "tara": "BE",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 8020946
+  },
+  {
+    "tara": "BE",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 8063640
+  },
+  {
+    "tara": "BE",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 8100273
+  },
+  {
+    "tara": "BE",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 8142573
+  },
+  {
+    "tara": "BE",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 8201359
+  },
+  {
+    "tara": "BE",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 8254298
+  },
+  {
+    "tara": "BE",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 8282984
+  },
+  {
+    "tara": "BE",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 8307989
+  },
+  {
+    "tara": "BE",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 8335003
+  },
+  {
+    "tara": "BE",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 8351643
+  },
+  {
+    "tara": "BE",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 8375164
+  },
+  {
+    "tara": "BE",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 8408121
+  },
+  {
+    "tara": "BE",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 8451860
+  },
+  {
+    "tara": "BE",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 8507786
+  },
+  {
+    "tara": "BE",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 8584926
+  },
+  {
+    "tara": "BE",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 8700471
+  },
+  {
+    "tara": "BE",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 8772865
+  },
+  {
+    "tara": "BE",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 8822267
+  },
+  {
+    "tara": "BG",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 10239085
+  },
+  {
+    "tara": "BG",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 10263414
+  },
+  {
+    "tara": "BG",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 10309725
+  },
+  {
+    "tara": "BG",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 10355844
+  },
+  {
+    "tara": "BG",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 10396421
+  },
+  {
+    "tara": "BG",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 10445852
+  },
+  {
+    "tara": "BG",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 10511382
+  },
+  {
+    "tara": "BG",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 10584534
+  },
+  {
+    "tara": "BG",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 10666866
+  },
+  {
+    "tara": "BG",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 10753080
+  },
+  {
+    "tara": "BG",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 10839905
+  },
+  {
+    "tara": "BG",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 11000638
+  },
+  {
+    "tara": "BG",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 11075889
+  },
+  {
+    "tara": "BG",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 11137974
+  },
+  {
+    "tara": "BG",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 11180840
+  },
+  {
+    "tara": "BG",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 11237274
+  },
+  {
+    "tara": "BG",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 11311117
+  },
+  {
+    "tara": "BG",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 11351727
+  },
+  {
+    "tara": "BG",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 11398589
+  },
+  {
+    "tara": "CZ",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 8190876
+  },
+  {
+    "tara": "CZ",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 8149468
+  },
+  {
+    "tara": "CZ",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 7868815
+  },
+  {
+    "tara": "CZ",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 7805506
+  },
+  {
+    "tara": "CZ",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 7745147
+  },
+  {
+    "tara": "CZ",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 7688573
+  },
+  {
+    "tara": "CZ",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 7629371
+  },
+  {
+    "tara": "CZ",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 7572673
+  },
+  {
+    "tara": "CZ",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 7518002
+  },
+  {
+    "tara": "CZ",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 7467119
+  },
+  {
+    "tara": "CZ",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 7421766
+  },
+  {
+    "tara": "CZ",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 7369431
+  },
+  {
+    "tara": "CZ",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 7327224
+  },
+  {
+    "tara": "CZ",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 7284552
+  },
+  {
+    "tara": "CZ",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 7245677
+  },
+  {
+    "tara": "CZ",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 7202198
+  },
+  {
+    "tara": "CZ",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 7153784
+  },
+  {
+    "tara": "CZ",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 7101859
+  },
+  {
+    "tara": "CZ",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 7050034
+  },
+  {
+    "tara": "DK",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 690497
+  },
+  {
+    "tara": "DK",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 697549
+  },
+  {
+    "tara": "DK",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 705539
+  },
+  {
+    "tara": "DK",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 713720
+  },
+  {
+    "tara": "DK",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 722893
+  },
+  {
+    "tara": "DK",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 733067
+  },
+  {
+    "tara": "DK",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 744013
+  },
+  {
+    "tara": "DK",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 757916
+  },
+  {
+    "tara": "DK",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 776333
+  },
+  {
+    "tara": "DK",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 796930
+  },
+  {
+    "tara": "DK",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 819140
+  },
+  {
+    "tara": "DK",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 839751
+  },
+  {
+    "tara": "DK",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 862011
+  },
+  {
+    "tara": "DK",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 865878
+  },
+  {
+    "tara": "DK",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 858000
+  },
+  {
+    "tara": "DK",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 847008
+  },
+  {
+    "tara": "DK",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 848319
+  },
+  {
+    "tara": "DK",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 854802
+  },
+  {
+    "tara": "DK",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 864236
+  },
+  {
+    "tara": "DE",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 10278098
+  },
+  {
+    "tara": "DE",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 10232027
+  },
+  {
+    "tara": "DE",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 10201182
+  },
+  {
+    "tara": "DE",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 10192649
+  },
+  {
+    "tara": "DE",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 10195347
+  },
+  {
+    "tara": "DE",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 10198855
+  },
+  {
+    "tara": "DE",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 10223577
+  },
+  {
+    "tara": "DE",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 10254233
+  },
+  {
+    "tara": "DE",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 10343422
+  },
+  {
+    "tara": "DE",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 10425783
+  },
+  {
+    "tara": "DE",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 10462088
+  },
+  {
+    "tara": "DE",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 10486731
+  },
+  {
+    "tara": "DE",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 10505445
+  },
+  {
+    "tara": "DE",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 10516125
+  },
+  {
+    "tara": "DE",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 10512419
+  },
+  {
+    "tara": "DE",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 10538275
+  },
+  {
+    "tara": "DE",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 10553843
+  },
+  {
+    "tara": "DE",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 10578820
+  },
+  {
+    "tara": "DE",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 10610055
+  },
+  {
+    "tara": "EE",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 82163475
+  },
+  {
+    "tara": "EE",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 82259540
+  },
+  {
+    "tara": "EE",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 82440309
+  },
+  {
+    "tara": "EE",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 82536680
+  },
+  {
+    "tara": "EE",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 82531671
+  },
+  {
+    "tara": "EE",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 82500849
+  },
+  {
+    "tara": "EE",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 82437995
+  },
+  {
+    "tara": "EE",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 82314906
+  },
+  {
+    "tara": "EE",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 82217837
+  },
+  {
+    "tara": "EE",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 82002356
+  },
+  {
+    "tara": "EE",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 81802257
+  },
+  {
+    "tara": "EE",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 80222065
+  },
+  {
+    "tara": "EE",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 80327900
+  },
+  {
+    "tara": "EE",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 80523746
+  },
+  {
+    "tara": "EE",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 80767463
+  },
+  {
+    "tara": "EE",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 81197537
+  },
+  {
+    "tara": "EE",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 82175684
+  },
+  {
+    "tara": "EE",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 82521653
+  },
+  {
+    "tara": "EE",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 82792351
+  },
+  {
+    "tara": "IE",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 5330020
+  },
+  {
+    "tara": "IE",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 5349212
+  },
+  {
+    "tara": "IE",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 5368354
+  },
+  {
+    "tara": "IE",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 5383507
+  },
+  {
+    "tara": "IE",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 5397640
+  },
+  {
+    "tara": "IE",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 5411405
+  },
+  {
+    "tara": "IE",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 5427459
+  },
+  {
+    "tara": "IE",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 5447084
+  },
+  {
+    "tara": "IE",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 5475791
+  },
+  {
+    "tara": "IE",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 5511451
+  },
+  {
+    "tara": "IE",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 5534738
+  },
+  {
+    "tara": "IE",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 5560628
+  },
+  {
+    "tara": "IE",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 5580516
+  },
+  {
+    "tara": "IE",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 5602628
+  },
+  {
+    "tara": "IE",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 5627235
+  },
+  {
+    "tara": "IE",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 5659715
+  },
+  {
+    "tara": "IE",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 5707251
+  },
+  {
+    "tara": "IE",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 5748769
+  },
+  {
+    "tara": "IE",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 5781190
+  },
+  {
+    "tara": "EL",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 1401250
+  },
+  {
+    "tara": "EL",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 1392720
+  },
+  {
+    "tara": "EL",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 1383510
+  },
+  {
+    "tara": "EL",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 1375190
+  },
+  {
+    "tara": "EL",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 1366250
+  },
+  {
+    "tara": "EL",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 1358850
+  },
+  {
+    "tara": "EL",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 1350700
+  },
+  {
+    "tara": "EL",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 1342920
+  },
+  {
+    "tara": "EL",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 1338440
+  },
+  {
+    "tara": "EL",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 1335740
+  },
+  {
+    "tara": "EL",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 1333290
+  },
+  {
+    "tara": "EL",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 1329660
+  },
+  {
+    "tara": "EL",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 1325217
+  },
+  {
+    "tara": "EL",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 1320174
+  },
+  {
+    "tara": "EL",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 1315819
+  },
+  {
+    "tara": "EL",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 1314870
+  },
+  {
+    "tara": "EL",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 1315944
+  },
+  {
+    "tara": "EL",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 1315635
+  },
+  {
+    "tara": "EL",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 1319133
+  },
+  {
+    "tara": "ES",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 10775627
+  },
+  {
+    "tara": "ES",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 10835989
+  },
+  {
+    "tara": "ES",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 10888274
+  },
+  {
+    "tara": "ES",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 10915770
+  },
+  {
+    "tara": "ES",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 10940369
+  },
+  {
+    "tara": "ES",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 10969912
+  },
+  {
+    "tara": "ES",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 11004716
+  },
+  {
+    "tara": "ES",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 11036008
+  },
+  {
+    "tara": "ES",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 11060937
+  },
+  {
+    "tara": "ES",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 11094745
+  },
+  {
+    "tara": "ES",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 11119289
+  },
+  {
+    "tara": "ES",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 11123392
+  },
+  {
+    "tara": "ES",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 11086406
+  },
+  {
+    "tara": "ES",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 11003615
+  },
+  {
+    "tara": "ES",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 10926807
+  },
+  {
+    "tara": "ES",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 10858018
+  },
+  {
+    "tara": "ES",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 10783748
+  },
+  {
+    "tara": "ES",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 10768193
+  },
+  {
+    "tara": "ES",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 10741165
+  },
+  {
+    "tara": "FR",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 40470182
+  },
+  {
+    "tara": "FR",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 40665545
+  },
+  {
+    "tara": "FR",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 41035278
+  },
+  {
+    "tara": "FR",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 41827838
+  },
+  {
+    "tara": "FR",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 42547451
+  },
+  {
+    "tara": "FR",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 43296338
+  },
+  {
+    "tara": "FR",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 44009971
+  },
+  {
+    "tara": "FR",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 44784666
+  },
+  {
+    "tara": "FR",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 45668939
+  },
+  {
+    "tara": "FR",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 46239273
+  },
+  {
+    "tara": "FR",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 46486619
+  },
+  {
+    "tara": "FR",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 46667174
+  },
+  {
+    "tara": "FR",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 46818219
+  },
+  {
+    "tara": "FR",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 46727890
+  },
+  {
+    "tara": "FR",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 46512199
+  },
+  {
+    "tara": "FR",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 46449565
+  },
+  {
+    "tara": "FR",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 46440099
+  },
+  {
+    "tara": "FR",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 46528024
+  },
+  {
+    "tara": "FR",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 46658447
+  },
+  {
+    "tara": "HR",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 5171302
+  },
+  {
+    "tara": "HR",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 5181115
+  },
+  {
+    "tara": "HR",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 5194901
+  },
+  {
+    "tara": "HR",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 5206295
+  },
+  {
+    "tara": "HR",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 5219732
+  },
+  {
+    "tara": "HR",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 5236611
+  },
+  {
+    "tara": "HR",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 5255580
+  },
+  {
+    "tara": "HR",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 5276955
+  },
+  {
+    "tara": "HR",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 5300484
+  },
+  {
+    "tara": "HR",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 5326314
+  },
+  {
+    "tara": "HR",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 5351427
+  },
+  {
+    "tara": "HR",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 5375276
+  },
+  {
+    "tara": "HR",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 5401267
+  },
+  {
+    "tara": "HR",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 5426674
+  },
+  {
+    "tara": "HR",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 5451270
+  },
+  {
+    "tara": "HR",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 5471753
+  },
+  {
+    "tara": "HR",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 5487308
+  },
+  {
+    "tara": "HR",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 5503297
+  },
+  {
+    "tara": "HR",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 5513130
+  },
+  {
+    "tara": "IT",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 60545022
+  },
+  {
+    "tara": "IT",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 60979315
+  },
+  {
+    "tara": "IT",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 61424036
+  },
+  {
+    "tara": "IT",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 61864088
+  },
+  {
+    "tara": "IT",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 62292241
+  },
+  {
+    "tara": "IT",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 62772870
+  },
+  {
+    "tara": "IT",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 63229635
+  },
+  {
+    "tara": "IT",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 63645065
+  },
+  {
+    "tara": "IT",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 64007193
+  },
+  {
+    "tara": "IT",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 64350226
+  },
+  {
+    "tara": "IT",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 64658856
+  },
+  {
+    "tara": "IT",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 64978721
+  },
+  {
+    "tara": "IT",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 65276983
+  },
+  {
+    "tara": "IT",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 65600350
+  },
+  {
+    "tara": "IT",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 66165980
+  },
+  {
+    "tara": "IT",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 66458153
+  },
+  {
+    "tara": "IT",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 66638391
+  },
+  {
+    "tara": "IT",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 66809816
+  },
+  {
+    "tara": "IT",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 66918941
+  },
+  {
+    "tara": "CY",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 4497735
+  },
+  {
+    "tara": "CY",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 4295406
+  },
+  {
+    "tara": "CY",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 4305494
+  },
+  {
+    "tara": "CY",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 4305384
+  },
+  {
+    "tara": "CY",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 4305725
+  },
+  {
+    "tara": "CY",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 4310861
+  },
+  {
+    "tara": "CY",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 4312487
+  },
+  {
+    "tara": "CY",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 4313530
+  },
+  {
+    "tara": "CY",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 4311967
+  },
+  {
+    "tara": "CY",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 4309796
+  },
+  {
+    "tara": "CY",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 4302847
+  },
+  {
+    "tara": "CY",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 4289857
+  },
+  {
+    "tara": "CY",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 4275984
+  },
+  {
+    "tara": "CY",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 4262140
+  },
+  {
+    "tara": "CY",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 4246809
+  },
+  {
+    "tara": "CY",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 4225316
+  },
+  {
+    "tara": "CY",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 4190669
+  },
+  {
+    "tara": "CY",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 4154213
+  },
+  {
+    "tara": "CY",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 4105493
+  },
+  {
+    "tara": "LV",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 10221644
+  },
+  {
+    "tara": "LV",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 10200298
+  },
+  {
+    "tara": "LV",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 10174853
+  },
+  {
+    "tara": "LV",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 10142362
+  },
+  {
+    "tara": "LV",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 10116742
+  },
+  {
+    "tara": "LV",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 10097549
+  },
+  {
+    "tara": "LV",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 10076581
+  },
+  {
+    "tara": "LV",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 10066158
+  },
+  {
+    "tara": "LV",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 10045401
+  },
+  {
+    "tara": "LV",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 10030975
+  },
+  {
+    "tara": "LV",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 10014324
+  },
+  {
+    "tara": "LV",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 9985722
+  },
+  {
+    "tara": "LV",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 9931925
+  },
+  {
+    "tara": "LV",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 9908798
+  },
+  {
+    "tara": "LV",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 9877365
+  },
+  {
+    "tara": "LV",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 9855571
+  },
+  {
+    "tara": "LV",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 9830485
+  },
+  {
+    "tara": "LV",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 9797561
+  },
+  {
+    "tara": "LV",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 9778371
+  },
+  {
+    "tara": "LT",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 3777565
+  },
+  {
+    "tara": "LT",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 3832783
+  },
+  {
+    "tara": "LT",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 3899702
+  },
+  {
+    "tara": "LT",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 3964191
+  },
+  {
+    "tara": "LT",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 4028851
+  },
+  {
+    "tara": "LT",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 4111672
+  },
+  {
+    "tara": "LT",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 4208156
+  },
+  {
+    "tara": "LT",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 4340118
+  },
+  {
+    "tara": "LT",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 4457765
+  },
+  {
+    "tara": "LT",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 4521322
+  },
+  {
+    "tara": "LT",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 4549428
+  },
+  {
+    "tara": "LT",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 4570881
+  },
+  {
+    "tara": "LT",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 4589287
+  },
+  {
+    "tara": "LT",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 4609779
+  },
+  {
+    "tara": "LT",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 4637852
+  },
+  {
+    "tara": "LT",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 4677627
+  },
+  {
+    "tara": "LT",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 4726286
+  },
+  {
+    "tara": "LT",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 4784383
+  },
+  {
+    "tara": "LT",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 4830392
+  },
+  {
+    "tara": "LU",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 56923524
+  },
+  {
+    "tara": "LU",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 56960692
+  },
+  {
+    "tara": "LU",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 56987507
+  },
+  {
+    "tara": "LU",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 57130506
+  },
+  {
+    "tara": "LU",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 57495900
+  },
+  {
+    "tara": "LU",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 57874753
+  },
+  {
+    "tara": "LU",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 58064214
+  },
+  {
+    "tara": "LU",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 58223744
+  },
+  {
+    "tara": "LU",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 58652875
+  },
+  {
+    "tara": "LU",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 59000586
+  },
+  {
+    "tara": "LU",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 59190143
+  },
+  {
+    "tara": "LU",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 59364690
+  },
+  {
+    "tara": "LU",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 59394207
+  },
+  {
+    "tara": "LU",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 59685227
+  },
+  {
+    "tara": "LU",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 60782668
+  },
+  {
+    "tara": "LU",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 60795612
+  },
+  {
+    "tara": "LU",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 60665551
+  },
+  {
+    "tara": "LU",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 60589445
+  },
+  {
+    "tara": "LU",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 60483973
+  },
+  {
+    "tara": "HU",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 3512074
+  },
+  {
+    "tara": "HU",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 3486998
+  },
+  {
+    "tara": "HU",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 3454637
+  },
+  {
+    "tara": "HU",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 3431497
+  },
+  {
+    "tara": "HU",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 3398929
+  },
+  {
+    "tara": "HU",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 3355220
+  },
+  {
+    "tara": "HU",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 3289835
+  },
+  {
+    "tara": "HU",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 3249983
+  },
+  {
+    "tara": "HU",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 3212605
+  },
+  {
+    "tara": "HU",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 3183856
+  },
+  {
+    "tara": "HU",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 3141976
+  },
+  {
+    "tara": "HU",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 3052588
+  },
+  {
+    "tara": "HU",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 3003641
+  },
+  {
+    "tara": "HU",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 2971905
+  },
+  {
+    "tara": "HU",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 2943472
+  },
+  {
+    "tara": "HU",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 2921262
+  },
+  {
+    "tara": "HU",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 2888558
+  },
+  {
+    "tara": "HU",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 2847904
+  },
+  {
+    "tara": "HU",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 2808901
+  },
+  {
+    "tara": "MT",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 433600
+  },
+  {
+    "tara": "MT",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 439000
+  },
+  {
+    "tara": "MT",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 444050
+  },
+  {
+    "tara": "MT",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 448300
+  },
+  {
+    "tara": "MT",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 454960
+  },
+  {
+    "tara": "MT",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 461230
+  },
+  {
+    "tara": "MT",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 469086
+  },
+  {
+    "tara": "MT",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 476187
+  },
+  {
+    "tara": "MT",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 483799
+  },
+  {
+    "tara": "MT",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 493500
+  },
+  {
+    "tara": "MT",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 502066
+  },
+  {
+    "tara": "MT",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 511840
+  },
+  {
+    "tara": "MT",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 524853
+  },
+  {
+    "tara": "MT",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 537039
+  },
+  {
+    "tara": "MT",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 549680
+  },
+  {
+    "tara": "MT",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 562958
+  },
+  {
+    "tara": "MT",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 576249
+  },
+  {
+    "tara": "MT",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 590667
+  },
+  {
+    "tara": "MT",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 602005
+  },
+  {
+    "tara": "NL",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 2381715
+  },
+  {
+    "tara": "NL",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 2353384
+  },
+  {
+    "tara": "NL",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 2320956
+  },
+  {
+    "tara": "NL",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 2299390
+  },
+  {
+    "tara": "NL",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 2276520
+  },
+  {
+    "tara": "NL",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 2249724
+  },
+  {
+    "tara": "NL",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 2227874
+  },
+  {
+    "tara": "NL",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 2208840
+  },
+  {
+    "tara": "NL",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 2191810
+  },
+  {
+    "tara": "NL",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 2162834
+  },
+  {
+    "tara": "NL",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 2120504
+  },
+  {
+    "tara": "NL",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 2074605
+  },
+  {
+    "tara": "NL",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 2044813
+  },
+  {
+    "tara": "NL",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 2023825
+  },
+  {
+    "tara": "NL",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 2001468
+  },
+  {
+    "tara": "NL",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 1986096
+  },
+  {
+    "tara": "NL",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 1968957
+  },
+  {
+    "tara": "NL",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 1950116
+  },
+  {
+    "tara": "NL",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 1934379
+  },
+  {
+    "tara": "AT",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 388759
+  },
+  {
+    "tara": "AT",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 391415
+  },
+  {
+    "tara": "AT",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 394641
+  },
+  {
+    "tara": "AT",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 397296
+  },
+  {
+    "tara": "AT",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 399867
+  },
+  {
+    "tara": "AT",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 402668
+  },
+  {
+    "tara": "AT",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 404999
+  },
+  {
+    "tara": "AT",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 405616
+  },
+  {
+    "tara": "AT",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 407832
+  },
+  {
+    "tara": "AT",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 410926
+  },
+  {
+    "tara": "AT",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 414027
+  },
+  {
+    "tara": "AT",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 414989
+  },
+  {
+    "tara": "AT",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 417546
+  },
+  {
+    "tara": "AT",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 422509
+  },
+  {
+    "tara": "AT",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 429424
+  },
+  {
+    "tara": "AT",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 439691
+  },
+  {
+    "tara": "AT",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 450415
+  },
+  {
+    "tara": "AT",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 460297
+  },
+  {
+    "tara": "AT",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 475701
+  },
+  {
+    "tara": "PL",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 15863950
+  },
+  {
+    "tara": "PL",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 15987075
+  },
+  {
+    "tara": "PL",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 16105285
+  },
+  {
+    "tara": "PL",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 16192572
+  },
+  {
+    "tara": "PL",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 16258032
+  },
+  {
+    "tara": "PL",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 16305526
+  },
+  {
+    "tara": "PL",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 16334210
+  },
+  {
+    "tara": "PL",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 16357992
+  },
+  {
+    "tara": "PL",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 16405399
+  },
+  {
+    "tara": "PL",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 16485787
+  },
+  {
+    "tara": "PL",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 16574989
+  },
+  {
+    "tara": "PL",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 16655799
+  },
+  {
+    "tara": "PL",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 16730348
+  },
+  {
+    "tara": "PL",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 16779575
+  },
+  {
+    "tara": "PL",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 16829289
+  },
+  {
+    "tara": "PL",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 16900726
+  },
+  {
+    "tara": "PL",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 16979120
+  },
+  {
+    "tara": "PL",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 17081507
+  },
+  {
+    "tara": "PL",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 17181084
+  },
+  {
+    "tara": "PT",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 38263303
+  },
+  {
+    "tara": "PT",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 38253955
+  },
+  {
+    "tara": "PT",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 38242197
+  },
+  {
+    "tara": "PT",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 38218531
+  },
+  {
+    "tara": "PT",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 38190608
+  },
+  {
+    "tara": "PT",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 38173835
+  },
+  {
+    "tara": "PT",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 38157055
+  },
+  {
+    "tara": "PT",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 38125479
+  },
+  {
+    "tara": "PT",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 38115641
+  },
+  {
+    "tara": "PT",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 38135876
+  },
+  {
+    "tara": "PT",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 38022869
+  },
+  {
+    "tara": "PT",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 38062718
+  },
+  {
+    "tara": "PT",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 38063792
+  },
+  {
+    "tara": "PT",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 38062535
+  },
+  {
+    "tara": "PT",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 38017856
+  },
+  {
+    "tara": "PT",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 38005614
+  },
+  {
+    "tara": "PT",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 37967209
+  },
+  {
+    "tara": "PT",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 37972964
+  },
+  {
+    "tara": "PT",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 37976687
+  },
+  {
+    "tara": "RO",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 10249022
+  },
+  {
+    "tara": "RO",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 10330774
+  },
+  {
+    "tara": "RO",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 10394669
+  },
+  {
+    "tara": "RO",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 10444592
+  },
+  {
+    "tara": "RO",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 10473050
+  },
+  {
+    "tara": "RO",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 10494672
+  },
+  {
+    "tara": "RO",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 10511988
+  },
+  {
+    "tara": "RO",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 10532588
+  },
+  {
+    "tara": "RO",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 10553339
+  },
+  {
+    "tara": "RO",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 10563014
+  },
+  {
+    "tara": "RO",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 10573479
+  },
+  {
+    "tara": "RO",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 10572721
+  },
+  {
+    "tara": "RO",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 10542398
+  },
+  {
+    "tara": "RO",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 10487289
+  },
+  {
+    "tara": "RO",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 10427301
+  },
+  {
+    "tara": "RO",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 10374822
+  },
+  {
+    "tara": "RO",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 10341330
+  },
+  {
+    "tara": "RO",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 10309573
+  },
+  {
+    "tara": "RO",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 10291027
+  },
+  {
+    "tara": "SI",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 22455485
+  },
+  {
+    "tara": "SI",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 22430457
+  },
+  {
+    "tara": "SI",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 21833483
+  },
+  {
+    "tara": "SI",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 21627509
+  },
+  {
+    "tara": "SI",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 21521142
+  },
+  {
+    "tara": "SI",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 21382354
+  },
+  {
+    "tara": "SI",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 21257016
+  },
+  {
+    "tara": "SI",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 21130503
+  },
+  {
+    "tara": "SI",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 20635460
+  },
+  {
+    "tara": "SI",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 20440290
+  },
+  {
+    "tara": "SI",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 20294683
+  },
+  {
+    "tara": "SI",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 20199059
+  },
+  {
+    "tara": "SI",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 20095996
+  },
+  {
+    "tara": "SI",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 20020074
+  },
+  {
+    "tara": "SI",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 19947311
+  },
+  {
+    "tara": "SI",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 19870647
+  },
+  {
+    "tara": "SI",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 19760585
+  },
+  {
+    "tara": "SI",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 19643949
+  },
+  {
+    "tara": "SI",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 19530631
+  },
+  {
+    "tara": "SK",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 8861426
+  },
+  {
+    "tara": "SK",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 8882792
+  },
+  {
+    "tara": "SK",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 8909128
+  },
+  {
+    "tara": "SK",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 8940788
+  },
+  {
+    "tara": "SK",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 8975670
+  },
+  {
+    "tara": "SK",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 9011392
+  },
+  {
+    "tara": "SK",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 9047752
+  },
+  {
+    "tara": "SK",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 9113257
+  },
+  {
+    "tara": "SK",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 9182927
+  },
+  {
+    "tara": "SK",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 9256347
+  },
+  {
+    "tara": "SK",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 9340682
+  },
+  {
+    "tara": "SK",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 9415570
+  },
+  {
+    "tara": "SK",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 9482855
+  },
+  {
+    "tara": "SK",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 9555893
+  },
+  {
+    "tara": "SK",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 9644864
+  },
+  {
+    "tara": "SK",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 9747355
+  },
+  {
+    "tara": "SK",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 9851017
+  },
+  {
+    "tara": "SK",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 9995153
+  },
+  {
+    "tara": "SK",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 10120242
+  },
+  {
+    "tara": "FI",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 1987755
+  },
+  {
+    "tara": "FI",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 1990094
+  },
+  {
+    "tara": "FI",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 1994026
+  },
+  {
+    "tara": "FI",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 1995033
+  },
+  {
+    "tara": "FI",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 1996433
+  },
+  {
+    "tara": "FI",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 1997590
+  },
+  {
+    "tara": "FI",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 2003358
+  },
+  {
+    "tara": "FI",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 2010377
+  },
+  {
+    "tara": "FI",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 2010269
+  },
+  {
+    "tara": "FI",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 2032362
+  },
+  {
+    "tara": "FI",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 2046976
+  },
+  {
+    "tara": "FI",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 2050189
+  },
+  {
+    "tara": "FI",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 2055496
+  },
+  {
+    "tara": "FI",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 2058821
+  },
+  {
+    "tara": "FI",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 2061085
+  },
+  {
+    "tara": "FI",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 2062874
+  },
+  {
+    "tara": "FI",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 2064188
+  },
+  {
+    "tara": "FI",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 2065895
+  },
+  {
+    "tara": "FI",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 2066880
+  },
+  {
+    "tara": "SE",
+    "an": "2000",
+    "indicator": "POP",
+    "valoare": 5398657
+  },
+  {
+    "tara": "SE",
+    "an": "2001",
+    "indicator": "POP",
+    "valoare": 5378783
+  },
+  {
+    "tara": "SE",
+    "an": "2002",
+    "indicator": "POP",
+    "valoare": 5378951
+  },
+  {
+    "tara": "SE",
+    "an": "2003",
+    "indicator": "POP",
+    "valoare": 5374873
+  },
+  {
+    "tara": "SE",
+    "an": "2004",
+    "indicator": "POP",
+    "valoare": 5371875
+  },
+  {
+    "tara": "SE",
+    "an": "2005",
+    "indicator": "POP",
+    "valoare": 5372685
+  },
+  {
+    "tara": "SE",
+    "an": "2006",
+    "indicator": "POP",
+    "valoare": 5372928
+  },
+  {
+    "tara": "SE",
+    "an": "2007",
+    "indicator": "POP",
+    "valoare": 5373180
+  },
+  {
+    "tara": "SE",
+    "an": "2008",
+    "indicator": "POP",
+    "valoare": 5376064
+  },
+  {
+    "tara": "SE",
+    "an": "2009",
+    "indicator": "POP",
+    "valoare": 5382401
+  },
+  {
+    "tara": "SE",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 5390410
+  },
+  {
+    "tara": "SE",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 5392446
+  },
+  {
+    "tara": "SE",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 5404322
+  },
+  {
+    "tara": "SE",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 5410836
+  },
+  {
+    "tara": "SE",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 5415949
+  },
+  {
+    "tara": "SE",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 5421349
+  },
+  {
+    "tara": "SE",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 5426252
+  },
+  {
+    "tara": "SE",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 5435343
+  },
+  {
+    "tara": "SE",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 5443120
+  },
+  {
+    "tara": "BE",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 31710
+  },
+  {
+    "tara": "BE",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 31990
+  },
+  {
+    "tara": "BE",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 32360
+  },
+  {
+    "tara": "BE",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 32520
+  },
+  {
+    "tara": "BE",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 33200
+  },
+  {
+    "tara": "BE",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 33710
+  },
+  {
+    "tara": "BE",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 34700
+  },
+  {
+    "tara": "BE",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 35870
+  },
+  {
+    "tara": "BE",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 36280
+  },
+  {
+    "tara": "BE",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 34830
+  },
+  {
+    "tara": "BE",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 35390
+  },
+  {
+    "tara": "BE",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 36300
+  },
+  {
+    "tara": "BE",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 36390
+  },
+  {
+    "tara": "BE",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 36180
+  },
+  {
+    "tara": "BE",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 36130
+  },
+  {
+    "tara": "BE",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 36140
+  },
+  {
+    "tara": "BE",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 36390
+  },
+  {
+    "tara": "BE",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 37030
+  },
+  {
+    "tara": "BE",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 37800
+  },
+  {
+    "tara": "BG",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 29890
+  },
+  {
+    "tara": "BG",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 30120
+  },
+  {
+    "tara": "BG",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 30490
+  },
+  {
+    "tara": "BG",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 30680
+  },
+  {
+    "tara": "BG",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 31640
+  },
+  {
+    "tara": "BG",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 32200
+  },
+  {
+    "tara": "BG",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 32800
+  },
+  {
+    "tara": "BG",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 33760
+  },
+  {
+    "tara": "BG",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 33640
+  },
+  {
+    "tara": "BG",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 32700
+  },
+  {
+    "tara": "BG",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 33330
+  },
+  {
+    "tara": "BG",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 33460
+  },
+  {
+    "tara": "BG",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 33490
+  },
+  {
+    "tara": "BG",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 33490
+  },
+  {
+    "tara": "BG",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 33870
+  },
+  {
+    "tara": "BG",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 34360
+  },
+  {
+    "tara": "BG",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 34620
+  },
+  {
+    "tara": "BG",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 35040
+  },
+  {
+    "tara": "BG",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 35510
+  },
+  {
+    "tara": "CZ",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 3010
+  },
+  {
+    "tara": "CZ",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 3230
+  },
+  {
+    "tara": "CZ",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 3440
+  },
+  {
+    "tara": "CZ",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 3640
+  },
+  {
+    "tara": "CZ",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 3890
+  },
+  {
+    "tara": "CZ",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 4190
+  },
+  {
+    "tara": "CZ",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 4500
+  },
+  {
+    "tara": "CZ",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 4820
+  },
+  {
+    "tara": "CZ",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 5140
+  },
+  {
+    "tara": "CZ",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 4990
+  },
+  {
+    "tara": "CZ",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 5050
+  },
+  {
+    "tara": "CZ",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 5300
+  },
+  {
+    "tara": "CZ",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 5350
+  },
+  {
+    "tara": "CZ",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 5400
+  },
+  {
+    "tara": "CZ",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 5530
+  },
+  {
+    "tara": "CZ",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 5790
+  },
+  {
+    "tara": "CZ",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 6050
+  },
+  {
+    "tara": "CZ",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 6310
+  },
+  {
+    "tara": "CZ",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 6550
+  },
+  {
+    "tara": "DK",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 20130
+  },
+  {
+    "tara": "DK",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 20700
+  },
+  {
+    "tara": "DK",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 21230
+  },
+  {
+    "tara": "DK",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 21520
+  },
+  {
+    "tara": "DK",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 22300
+  },
+  {
+    "tara": "DK",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 23050
+  },
+  {
+    "tara": "DK",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 23740
+  },
+  {
+    "tara": "DK",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 24420
+  },
+  {
+    "tara": "DK",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 24680
+  },
+  {
+    "tara": "DK",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 23550
+  },
+  {
+    "tara": "DK",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 23400
+  },
+  {
+    "tara": "DK",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 22900
+  },
+  {
+    "tara": "DK",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 21780
+  },
+  {
+    "tara": "DK",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 20400
+  },
+  {
+    "tara": "DK",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 20250
+  },
+  {
+    "tara": "DK",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 21020
+  },
+  {
+    "tara": "DK",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 22270
+  },
+  {
+    "tara": "DK",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 23200
+  },
+  {
+    "tara": "DK",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 24120
+  },
+  {
+    "tara": "DE",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 11230
+  },
+  {
+    "tara": "DE",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 11620
+  },
+  {
+    "tara": "DE",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 11830
+  },
+  {
+    "tara": "DE",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 12260
+  },
+  {
+    "tara": "DE",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 12840
+  },
+  {
+    "tara": "DE",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 13650
+  },
+  {
+    "tara": "DE",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 14530
+  },
+  {
+    "tara": "DE",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 15250
+  },
+  {
+    "tara": "DE",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 15500
+  },
+  {
+    "tara": "DE",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 14690
+  },
+  {
+    "tara": "DE",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 15020
+  },
+  {
+    "tara": "DE",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 15310
+  },
+  {
+    "tara": "DE",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 15170
+  },
+  {
+    "tara": "DE",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 15160
+  },
+  {
+    "tara": "DE",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 15480
+  },
+  {
+    "tara": "DE",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 16290
+  },
+  {
+    "tara": "DE",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 16670
+  },
+  {
+    "tara": "DE",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 17490
+  },
+  {
+    "tara": "DE",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 17980
+  },
+  {
+    "tara": "EE",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 28910
+  },
+  {
+    "tara": "EE",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 29370
+  },
+  {
+    "tara": "EE",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 29290
+  },
+  {
+    "tara": "EE",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 29100
+  },
+  {
+    "tara": "EE",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 29470
+  },
+  {
+    "tara": "EE",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 29730
+  },
+  {
+    "tara": "EE",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 30930
+  },
+  {
+    "tara": "EE",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 31920
+  },
+  {
+    "tara": "EE",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 32320
+  },
+  {
+    "tara": "EE",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 30580
+  },
+  {
+    "tara": "EE",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 31940
+  },
+  {
+    "tara": "EE",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 33200
+  },
+  {
+    "tara": "EE",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 33280
+  },
+  {
+    "tara": "EE",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 33330
+  },
+  {
+    "tara": "EE",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 33920
+  },
+  {
+    "tara": "EE",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 34130
+  },
+  {
+    "tara": "EE",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 34610
+  },
+  {
+    "tara": "EE",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 35380
+  },
+  {
+    "tara": "EE",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 35720
+  },
+  {
+    "tara": "IE",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 42190
+  },
+  {
+    "tara": "IE",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 42390
+  },
+  {
+    "tara": "IE",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 42430
+  },
+  {
+    "tara": "IE",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 42490
+  },
+  {
+    "tara": "IE",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 43520
+  },
+  {
+    "tara": "IE",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 44400
+  },
+  {
+    "tara": "IE",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 45990
+  },
+  {
+    "tara": "IE",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 46210
+  },
+  {
+    "tara": "IE",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 45700
+  },
+  {
+    "tara": "IE",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 43220
+  },
+  {
+    "tara": "IE",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 43840
+  },
+  {
+    "tara": "IE",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 44240
+  },
+  {
+    "tara": "IE",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 44170
+  },
+  {
+    "tara": "IE",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 44410
+  },
+  {
+    "tara": "IE",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 44890
+  },
+  {
+    "tara": "IE",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 45630
+  },
+  {
+    "tara": "IE",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 46720
+  },
+  {
+    "tara": "IE",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 47740
+  },
+  {
+    "tara": "IE",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 48530
+  },
+  {
+    "tara": "EL",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 7570
+  },
+  {
+    "tara": "EL",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 8070
+  },
+  {
+    "tara": "EL",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 8680
+  },
+  {
+    "tara": "EL",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 9390
+  },
+  {
+    "tara": "EL",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 10090
+  },
+  {
+    "tara": "EL",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 11110
+  },
+  {
+    "tara": "EL",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 12260
+  },
+  {
+    "tara": "EL",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 13270
+  },
+  {
+    "tara": "EL",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 12640
+  },
+  {
+    "tara": "EL",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 10830
+  },
+  {
+    "tara": "EL",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 11150
+  },
+  {
+    "tara": "EL",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 12010
+  },
+  {
+    "tara": "EL",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 12430
+  },
+  {
+    "tara": "EL",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 12640
+  },
+  {
+    "tara": "EL",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 13060
+  },
+  {
+    "tara": "EL",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 13330
+  },
+  {
+    "tara": "EL",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 13730
+  },
+  {
+    "tara": "EL",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 14480
+  },
+  {
+    "tara": "EL",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 15070
+  },
+  {
+    "tara": "ES",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 17430
+  },
+  {
+    "tara": "ES",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 18050
+  },
+  {
+    "tara": "ES",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 18690
+  },
+  {
+    "tara": "ES",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 19730
+  },
+  {
+    "tara": "ES",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 20670
+  },
+  {
+    "tara": "ES",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 20740
+  },
+  {
+    "tara": "ES",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 21840
+  },
+  {
+    "tara": "ES",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 22500
+  },
+  {
+    "tara": "ES",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 22370
+  },
+  {
+    "tara": "ES",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 21350
+  },
+  {
+    "tara": "ES",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 20150
+  },
+  {
+    "tara": "ES",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 18130
+  },
+  {
+    "tara": "ES",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 16940
+  },
+  {
+    "tara": "ES",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 16600
+  },
+  {
+    "tara": "ES",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 16820
+  },
+  {
+    "tara": "ES",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 16870
+  },
+  {
+    "tara": "ES",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 16850
+  },
+  {
+    "tara": "ES",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 17100
+  },
+  {
+    "tara": "ES",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 17400
+  },
+  {
+    "tara": "FR",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 21460
+  },
+  {
+    "tara": "FR",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 22190
+  },
+  {
+    "tara": "FR",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 22430
+  },
+  {
+    "tara": "FR",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 22680
+  },
+  {
+    "tara": "FR",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 23020
+  },
+  {
+    "tara": "FR",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 23420
+  },
+  {
+    "tara": "FR",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 24000
+  },
+  {
+    "tara": "FR",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 24380
+  },
+  {
+    "tara": "FR",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 24200
+  },
+  {
+    "tara": "FR",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 23100
+  },
+  {
+    "tara": "FR",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 23040
+  },
+  {
+    "tara": "FR",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 22770
+  },
+  {
+    "tara": "FR",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 22080
+  },
+  {
+    "tara": "FR",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 21840
+  },
+  {
+    "tara": "FR",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 22210
+  },
+  {
+    "tara": "FR",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 23080
+  },
+  {
+    "tara": "FR",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 23760
+  },
+  {
+    "tara": "FR",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 24430
+  },
+  {
+    "tara": "FR",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 24910
+  },
+  {
+    "tara": "HR",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 30510
+  },
+  {
+    "tara": "HR",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 31230
+  },
+  {
+    "tara": "HR",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 31690
+  },
+  {
+    "tara": "HR",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 32250
+  },
+  {
+    "tara": "HR",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 33440
+  },
+  {
+    "tara": "HR",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 34250
+  },
+  {
+    "tara": "HR",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 35490
+  },
+  {
+    "tara": "HR",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 37210
+  },
+  {
+    "tara": "HR",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 37330
+  },
+  {
+    "tara": "HR",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 34150
+  },
+  {
+    "tara": "HR",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 35080
+  },
+  {
+    "tara": "HR",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 35810
+  },
+  {
+    "tara": "HR",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 35140
+  },
+  {
+    "tara": "HR",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 34660
+  },
+  {
+    "tara": "HR",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 34390
+  },
+  {
+    "tara": "HR",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 34460
+  },
+  {
+    "tara": "HR",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 35330
+  },
+  {
+    "tara": "HR",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 36400
+  },
+  {
+    "tara": "HR",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 36900
+  },
+  {
+    "tara": "IT",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 28930
+  },
+  {
+    "tara": "IT",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 29290
+  },
+  {
+    "tara": "IT",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 29410
+  },
+  {
+    "tara": "IT",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 29440
+  },
+  {
+    "tara": "IT",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 30050
+  },
+  {
+    "tara": "IT",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 30320
+  },
+  {
+    "tara": "IT",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 30850
+  },
+  {
+    "tara": "IT",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 31400
+  },
+  {
+    "tara": "IT",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 31310
+  },
+  {
+    "tara": "IT",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 30250
+  },
+  {
+    "tara": "IT",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 30690
+  },
+  {
+    "tara": "IT",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 31210
+  },
+  {
+    "tara": "IT",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 31160
+  },
+  {
+    "tara": "IT",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 31170
+  },
+  {
+    "tara": "IT",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 31320
+  },
+  {
+    "tara": "IT",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 31540
+  },
+  {
+    "tara": "IT",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 31770
+  },
+  {
+    "tara": "IT",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 32380
+  },
+  {
+    "tara": "IT",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 32860
+  },
+  {
+    "tara": "CY",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 8190
+  },
+  {
+    "tara": "CY",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 8420
+  },
+  {
+    "tara": "CY",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 8900
+  },
+  {
+    "tara": "CY",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 9400
+  },
+  {
+    "tara": "CY",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 9780
+  },
+  {
+    "tara": "CY",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 10200
+  },
+  {
+    "tara": "CY",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 10700
+  },
+  {
+    "tara": "CY",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 11250
+  },
+  {
+    "tara": "CY",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 11460
+  },
+  {
+    "tara": "CY",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 10640
+  },
+  {
+    "tara": "CY",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 10520
+  },
+  {
+    "tara": "CY",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 10530
+  },
+  {
+    "tara": "CY",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 10310
+  },
+  {
+    "tara": "CY",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 10300
+  },
+  {
+    "tara": "CY",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 10310
+  },
+  {
+    "tara": "CY",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 10630
+  },
+  {
+    "tara": "CY",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 11100
+  },
+  {
+    "tara": "CY",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 11600
+  },
+  {
+    "tara": "CY",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 12040
+  },
+  {
+    "tara": "LV",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 7910
+  },
+  {
+    "tara": "LV",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 8250
+  },
+  {
+    "tara": "LV",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 8670
+  },
+  {
+    "tara": "LV",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 9050
+  },
+  {
+    "tara": "LV",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 9510
+  },
+  {
+    "tara": "LV",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 9930
+  },
+  {
+    "tara": "LV",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 10340
+  },
+  {
+    "tara": "LV",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 10390
+  },
+  {
+    "tara": "LV",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 10510
+  },
+  {
+    "tara": "LV",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 9820
+  },
+  {
+    "tara": "LV",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 9960
+  },
+  {
+    "tara": "LV",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 10180
+  },
+  {
+    "tara": "LV",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 10090
+  },
+  {
+    "tara": "LV",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 10310
+  },
+  {
+    "tara": "LV",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 10770
+  },
+  {
+    "tara": "LV",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 11210
+  },
+  {
+    "tara": "LV",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 11480
+  },
+  {
+    "tara": "LV",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 12010
+  },
+  {
+    "tara": "LV",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 12680
+  },
+  {
+    "tara": "LT",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 33290
+  },
+  {
+    "tara": "LT",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 34520
+  },
+  {
+    "tara": "LT",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 35920
+  },
+  {
+    "tara": "LT",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 36400
+  },
+  {
+    "tara": "LT",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 38190
+  },
+  {
+    "tara": "LT",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 39480
+  },
+  {
+    "tara": "LT",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 40390
+  },
+  {
+    "tara": "LT",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 41280
+  },
+  {
+    "tara": "LT",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 38600
+  },
+  {
+    "tara": "LT",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 36300
+  },
+  {
+    "tara": "LT",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 36770
+  },
+  {
+    "tara": "LT",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 36840
+  },
+  {
+    "tara": "LT",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 36740
+  },
+  {
+    "tara": "LT",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 37010
+  },
+  {
+    "tara": "LT",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 39920
+  },
+  {
+    "tara": "LT",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 49510
+  },
+  {
+    "tara": "LT",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 49930
+  },
+  {
+    "tara": "LT",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 53890
+  },
+  {
+    "tara": "LT",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 57780
+  },
+  {
+    "tara": "LU",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 27430
+  },
+  {
+    "tara": "LU",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 27950
+  },
+  {
+    "tara": "LU",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 27960
+  },
+  {
+    "tara": "LU",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 27850
+  },
+  {
+    "tara": "LU",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 28030
+  },
+  {
+    "tara": "LU",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 28090
+  },
+  {
+    "tara": "LU",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 28480
+  },
+  {
+    "tara": "LU",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 28730
+  },
+  {
+    "tara": "LU",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 28230
+  },
+  {
+    "tara": "LU",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 26590
+  },
+  {
+    "tara": "LU",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 26930
+  },
+  {
+    "tara": "LU",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 27020
+  },
+  {
+    "tara": "LU",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 26090
+  },
+  {
+    "tara": "LU",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 25480
+  },
+  {
+    "tara": "LU",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 25420
+  },
+  {
+    "tara": "LU",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 25640
+  },
+  {
+    "tara": "LU",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 26020
+  },
+  {
+    "tara": "LU",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 26490
+  },
+  {
+    "tara": "LU",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 26780
+  },
+  {
+    "tara": "HU",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 5230
+  },
+  {
+    "tara": "HU",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 5620
+  },
+  {
+    "tara": "HU",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 6050
+  },
+  {
+    "tara": "HU",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 6740
+  },
+  {
+    "tara": "HU",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 7270
+  },
+  {
+    "tara": "HU",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 7960
+  },
+  {
+    "tara": "HU",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 8690
+  },
+  {
+    "tara": "HU",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 9770
+  },
+  {
+    "tara": "HU",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 10130
+  },
+  {
+    "tara": "HU",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 8720
+  },
+  {
+    "tara": "HU",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 9050
+  },
+  {
+    "tara": "HU",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 9820
+  },
+  {
+    "tara": "HU",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 10330
+  },
+  {
+    "tara": "HU",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 10810
+  },
+  {
+    "tara": "HU",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 11290
+  },
+  {
+    "tara": "HU",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 11620
+  },
+  {
+    "tara": "HU",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 12070
+  },
+  {
+    "tara": "HU",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 12760
+  },
+  {
+    "tara": "HU",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 13390
+  },
+  {
+    "tara": "MT",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 70460
+  },
+  {
+    "tara": "MT",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 71440
+  },
+  {
+    "tara": "MT",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 73380
+  },
+  {
+    "tara": "MT",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 73650
+  },
+  {
+    "tara": "MT",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 75270
+  },
+  {
+    "tara": "MT",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 76460
+  },
+  {
+    "tara": "MT",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 79190
+  },
+  {
+    "tara": "MT",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 84420
+  },
+  {
+    "tara": "MT",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 81880
+  },
+  {
+    "tara": "MT",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 76900
+  },
+  {
+    "tara": "MT",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 79160
+  },
+  {
+    "tara": "MT",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 79310
+  },
+  {
+    "tara": "MT",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 77240
+  },
+  {
+    "tara": "MT",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 78030
+  },
+  {
+    "tara": "MT",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 79490
+  },
+  {
+    "tara": "MT",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 81300
+  },
+  {
+    "tara": "MT",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 82880
+  },
+  {
+    "tara": "MT",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 82550
+  },
+  {
+    "tara": "MT",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 83470
+  },
+  {
+    "tara": "NL",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 5210
+  },
+  {
+    "tara": "NL",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 5610
+  },
+  {
+    "tara": "NL",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 6080
+  },
+  {
+    "tara": "NL",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 6660
+  },
+  {
+    "tara": "NL",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 7310
+  },
+  {
+    "tara": "NL",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 8180
+  },
+  {
+    "tara": "NL",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 9240
+  },
+  {
+    "tara": "NL",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 10250
+  },
+  {
+    "tara": "NL",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 10010
+  },
+  {
+    "tara": "NL",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 8730
+  },
+  {
+    "tara": "NL",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 8520
+  },
+  {
+    "tara": "NL",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 9240
+  },
+  {
+    "tara": "NL",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 9750
+  },
+  {
+    "tara": "NL",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 10080
+  },
+  {
+    "tara": "NL",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 10290
+  },
+  {
+    "tara": "NL",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 10790
+  },
+  {
+    "tara": "NL",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 11150
+  },
+  {
+    "tara": "NL",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 11620
+  },
+  {
+    "tara": "NL",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 12180
+  },
+  {
+    "tara": "AT",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 13750
+  },
+  {
+    "tara": "AT",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 13480
+  },
+  {
+    "tara": "AT",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 13730
+  },
+  {
+    "tara": "AT",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 14200
+  },
+  {
+    "tara": "AT",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 14120
+  },
+  {
+    "tara": "AT",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 14510
+  },
+  {
+    "tara": "AT",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 14820
+  },
+  {
+    "tara": "AT",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 15470
+  },
+  {
+    "tara": "AT",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 15960
+  },
+  {
+    "tara": "AT",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 15660
+  },
+  {
+    "tara": "AT",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 16440
+  },
+  {
+    "tara": "AT",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 16450
+  },
+  {
+    "tara": "AT",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 16970
+  },
+  {
+    "tara": "AT",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 17650
+  },
+  {
+    "tara": "AT",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 18610
+  },
+  {
+    "tara": "AT",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 19920
+  },
+  {
+    "tara": "AT",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 20230
+  },
+  {
+    "tara": "AT",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 21250
+  },
+  {
+    "tara": "AT",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 21580
+  },
+  {
+    "tara": "PL",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 35060
+  },
+  {
+    "tara": "PL",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 35610
+  },
+  {
+    "tara": "PL",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 35460
+  },
+  {
+    "tara": "PL",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 35350
+  },
+  {
+    "tara": "PL",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 35920
+  },
+  {
+    "tara": "PL",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 36570
+  },
+  {
+    "tara": "PL",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 37780
+  },
+  {
+    "tara": "PL",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 39120
+  },
+  {
+    "tara": "PL",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 39810
+  },
+  {
+    "tara": "PL",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 38160
+  },
+  {
+    "tara": "PL",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 38470
+  },
+  {
+    "tara": "PL",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 38880
+  },
+  {
+    "tara": "PL",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 38340
+  },
+  {
+    "tara": "PL",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 38180
+  },
+  {
+    "tara": "PL",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 38580
+  },
+  {
+    "tara": "PL",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 39170
+  },
+  {
+    "tara": "PL",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 39810
+  },
+  {
+    "tara": "PL",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 40730
+  },
+  {
+    "tara": "PL",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 41450
+  },
+  {
+    "tara": "PT",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 6450
+  },
+  {
+    "tara": "PT",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 6530
+  },
+  {
+    "tara": "PT",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 6670
+  },
+  {
+    "tara": "PT",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 6910
+  },
+  {
+    "tara": "PT",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 7260
+  },
+  {
+    "tara": "PT",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 7510
+  },
+  {
+    "tara": "PT",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 7980
+  },
+  {
+    "tara": "PT",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 8550
+  },
+  {
+    "tara": "PT",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 8910
+  },
+  {
+    "tara": "PT",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 9070
+  },
+  {
+    "tara": "PT",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 9400
+  },
+  {
+    "tara": "PT",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 9850
+  },
+  {
+    "tara": "PT",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 9980
+  },
+  {
+    "tara": "PT",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 10100
+  },
+  {
+    "tara": "PT",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 10440
+  },
+  {
+    "tara": "PT",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 10890
+  },
+  {
+    "tara": "PT",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 11240
+  },
+  {
+    "tara": "PT",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 11790
+  },
+  {
+    "tara": "PT",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 12420
+  },
+  {
+    "tara": "RO",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 16230
+  },
+  {
+    "tara": "RO",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 16430
+  },
+  {
+    "tara": "RO",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 16470
+  },
+  {
+    "tara": "RO",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 16250
+  },
+  {
+    "tara": "RO",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 16500
+  },
+  {
+    "tara": "RO",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 16600
+  },
+  {
+    "tara": "RO",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 16840
+  },
+  {
+    "tara": "RO",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 17230
+  },
+  {
+    "tara": "RO",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 17260
+  },
+  {
+    "tara": "RO",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 16710
+  },
+  {
+    "tara": "RO",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 16990
+  },
+  {
+    "tara": "RO",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 16720
+  },
+  {
+    "tara": "RO",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 16110
+  },
+  {
+    "tara": "RO",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 16050
+  },
+  {
+    "tara": "RO",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 16260
+  },
+  {
+    "tara": "RO",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 16620
+  },
+  {
+    "tara": "RO",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 17010
+  },
+  {
+    "tara": "RO",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 17650
+  },
+  {
+    "tara": "RO",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 18190
+  },
+  {
+    "tara": "SI",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": null
+  },
+  {
+    "tara": "SI",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": null
+  },
+  {
+    "tara": "SI",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 4260
+  },
+  {
+    "tara": "SI",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 4380
+  },
+  {
+    "tara": "SI",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 4860
+  },
+  {
+    "tara": "SI",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 5120
+  },
+  {
+    "tara": "SI",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 5560
+  },
+  {
+    "tara": "SI",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 6050
+  },
+  {
+    "tara": "SI",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 6730
+  },
+  {
+    "tara": "SI",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 6410
+  },
+  {
+    "tara": "SI",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 6200
+  },
+  {
+    "tara": "SI",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 6350
+  },
+  {
+    "tara": "SI",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 6500
+  },
+  {
+    "tara": "SI",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 6770
+  },
+  {
+    "tara": "SI",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 7040
+  },
+  {
+    "tara": "SI",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 7290
+  },
+  {
+    "tara": "SI",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 7670
+  },
+  {
+    "tara": "SI",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 8280
+  },
+  {
+    "tara": "SI",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 8700
+  },
+  {
+    "tara": "SK",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 33960
+  },
+  {
+    "tara": "SK",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 34360
+  },
+  {
+    "tara": "SK",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 35000
+  },
+  {
+    "tara": "SK",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 35680
+  },
+  {
+    "tara": "SK",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 37080
+  },
+  {
+    "tara": "SK",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 37990
+  },
+  {
+    "tara": "SK",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 39540
+  },
+  {
+    "tara": "SK",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 40590
+  },
+  {
+    "tara": "SK",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 40100
+  },
+  {
+    "tara": "SK",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 38030
+  },
+  {
+    "tara": "SK",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 39950
+  },
+  {
+    "tara": "SK",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 40920
+  },
+  {
+    "tara": "SK",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 40380
+  },
+  {
+    "tara": "SK",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 40510
+  },
+  {
+    "tara": "SK",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 41180
+  },
+  {
+    "tara": "SK",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 42580
+  },
+  {
+    "tara": "SK",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 42920
+  },
+  {
+    "tara": "SK",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 43430
+  },
+  {
+    "tara": "SK",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 43760
+  },
+  {
+    "tara": "FI",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 13980
+  },
+  {
+    "tara": "FI",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 14410
+  },
+  {
+    "tara": "FI",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 14900
+  },
+  {
+    "tara": "FI",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 15330
+  },
+  {
+    "tara": "FI",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 15990
+  },
+  {
+    "tara": "FI",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 16570
+  },
+  {
+    "tara": "FI",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 17460
+  },
+  {
+    "tara": "FI",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 18570
+  },
+  {
+    "tara": "FI",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 19190
+  },
+  {
+    "tara": "FI",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 17570
+  },
+  {
+    "tara": "FI",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 17750
+  },
+  {
+    "tara": "FI",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 17870
+  },
+  {
+    "tara": "FI",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 17360
+  },
+  {
+    "tara": "FI",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 17160
+  },
+  {
+    "tara": "FI",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 17620
+  },
+  {
+    "tara": "FI",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 17990
+  },
+  {
+    "tara": "FI",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 18550
+  },
+  {
+    "tara": "FI",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 19430
+  },
+  {
+    "tara": "FI",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 20220
+  },
+  {
+    "tara": "SE",
+    "an": "2000",
+    "indicator": "PIB",
+    "valoare": 7780
+  },
+  {
+    "tara": "SE",
+    "an": "2001",
+    "indicator": "PIB",
+    "valoare": 8060
+  },
+  {
+    "tara": "SE",
+    "an": "2002",
+    "indicator": "PIB",
+    "valoare": 8420
+  },
+  {
+    "tara": "SE",
+    "an": "2003",
+    "indicator": "PIB",
+    "valoare": 8890
+  },
+  {
+    "tara": "SE",
+    "an": "2004",
+    "indicator": "PIB",
+    "valoare": 9350
+  },
+  {
+    "tara": "SE",
+    "an": "2005",
+    "indicator": "PIB",
+    "valoare": 9960
+  },
+  {
+    "tara": "SE",
+    "an": "2006",
+    "indicator": "PIB",
+    "valoare": 10800
+  },
+  {
+    "tara": "SE",
+    "an": "2007",
+    "indicator": "PIB",
+    "valoare": 11960
+  },
+  {
+    "tara": "SE",
+    "an": "2008",
+    "indicator": "PIB",
+    "valoare": 12600
+  },
+  {
+    "tara": "SE",
+    "an": "2009",
+    "indicator": "PIB",
+    "valoare": 11890
+  },
+  {
+    "tara": "SE",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 12560
+  },
+  {
+    "tara": "SE",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 12990
+  },
+  {
+    "tara": "SE",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 13220
+  },
+  {
+    "tara": "SE",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 13290
+  },
+  {
+    "tara": "SE",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 13630
+  },
+  {
+    "tara": "SE",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 14270
+  },
+  {
+    "tara": "SE",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 14550
+  },
+  {
+    "tara": "SE",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 14980
+  },
+  {
+    "tara": "SE",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 15520
+  }
+]
