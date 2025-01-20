@@ -1,1 +1,1 @@
-# Web-application-for-viewing-a-data-set-from-Eurostat
+# Web application for viewing a data set from Eurostat
